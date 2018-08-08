@@ -1,0 +1,43 @@
+.container{background-color: #ccc; width: 100%; height: auto; display: flex; flex-flow: row wrap;
+	align-items: stretch; justify-content: center;}
+.coluna1{background-color: #1DD8C9; width: 33.3%; height: auto; 
+	display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;}
+
+.coluna2{background-color: #1DA1D8; width: 33.3%; height: auto; 
+	display: flex; flex-direction: column; flex-wrap: wrap; align-items: center;}
+
+.coluna3{background-color: #1DD8A1; width: 33.3%; height: auto; 
+	display: flex; flex-direction: column; flex-wrap: wrap; justify-content: center;}
+
+.item{background-color: #333; color: #fff; padding: 20px; margin: 0.5vh;}
+
+.coluna1 .article-0001{height: 50vh; flex-basis: 100vh;}
+.coluna1 .article-0002{height: 15vh; flex-basis: 20vh;}
+.coluna1 .article-0003{height: 10vh;}
+.coluna1 .article-0004{height: 5vh; align-self: flex-start;}
+.coluna1 .article-0005{height: 10vh;}
+.coluna1 .article-0006{height: 5vh;}
+.coluna1 .article-0007{height: 10vh;}
+.coluna1 .article-0008{height: 5vh;}
+.coluna1 .article-0009{height: 10vh;}
+.coluna1 .article-0010{height: 5vh;}
+.coluna2 .article-001{}
+.coluna2 .article-002{}
+.coluna2 .article-003{height: }
+.coluna2 .article-004{height: }
+.coluna2 .article-005{height: }
+.coluna2 .article-006{height: }
+.coluna2 .article-007{height: }
+.coluna2 .article-008{height: }
+.coluna2 .article-009{height: }
+.coluna2 .article-010{height: }
+.coluna3 .article-01{}
+.coluna3 .article-02{}
+.coluna3 .article-03{}
+.coluna3 .article-04{}
+.coluna3 .article-05{}
+.coluna3 .article-06{}
+.coluna3 .article-07{}
+.coluna3 .article-08{}
+.coluna3 .article-09{}
+.coluna3 .article-10{}
